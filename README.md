@@ -1,5 +1,4 @@
-# Arvin-PW
-About me/Tentang saya
+# Arvin-PW (About me/Tentang saya)
 
 <p align="center">
   <img src="https://github.com/arvin-prakasa-wijaya/Arvin-PW/blob/main/bayi%20kartun.png?raw=true" alt="Profil Arvin" width="250"/>
