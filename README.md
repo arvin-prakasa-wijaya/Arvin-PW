@@ -7,7 +7,7 @@ About me/Tentang saya
 
 <div align="justify">
   
-  <h2>LAHIR DI BANDUNG PADA TANGGAL 5 JANUARI 2006 </h2>
+  <h2>Lahir di Bandung pada tanggal 05 Januari 2006 </h2>
 
   <p align="center">
   <img src="https://github.com/arvin-prakasa-wijaya/Arvin-PW/blob/main/Fam.png?raw=true" alt="Profil Arvin" width="300"/>
@@ -15,7 +15,7 @@ About me/Tentang saya
 
 <div align="justify">
   
-  <h2>ANAK PERTAMA DARI 2 BERSAUDARA</h2>
+  <h2>Anak pertama dari 2 bersaudara</h2>
 
    <p align="center">
   <img src="https://github.com/arvin-prakasa-wijaya/Arvin-PW/blob/main/pendidikan%20sekolah.png?raw=true" alt="Profil Arvin" width="500"/>
@@ -23,5 +23,21 @@ About me/Tentang saya
 
 <div align="justify">
   
-  <h2>PENDIDIKAN ALHAMDULILAH LULUS SEMUANYA</h2>
+  <h2>Pendidikan alhamdulilah lulus semua</h2>
+
+<p align="center">
+  <img src="https://github.com/arvin-prakasa-wijaya/Arvin-PW/blob/main/ngonten.jpg?raw=true" alt="Profil Arvin" width="500"/>
+</p>
+
+<div align="justify">
+  
+  <h2>Aku hobi editing video serta bermain game. Jadi kadang aku main game suka sambil recording, lalu video nya aku edit </h2>
+
+  <p align="center">
+  <img src="" alt="Profil Arvin" width="500"/>
+</p>
+
+<div align="justify">
+  
+  <h2>FUN FACT. Waktu SMK aku terpaksa harus masuk ke jurusan yang salah, dimana minat dan bakat aku editing video tapi aku masuk jurusan Teknik Elektronika Audio Video(TEAV). Aku juga takut sama kecoa, hehehe.</h2>
 
