@@ -18,10 +18,10 @@ About me/Tentang saya
   <h2>ANAK PERTAMA DARI 2 BERSAUDARA</h2>
 
    <p align="center">
-  <img src="https://github.com/arvin-prakasa-wijaya/Arvin-PW/blob/main/Fam.png?raw=true" alt="Profil Arvin" width="300"/>
+  <img src="https://github.com/arvin-prakasa-wijaya/Arvin-PW/blob/main/pendidikan%20sekolah.png?raw=true" alt="Profil Arvin" width="500"/>
 </p>
 
 <div align="justify">
   
-  <h2>ANAK PERTAMA DARI 2 BERSAUDARA</h2>
+  <h2>PENDIDIKAN ALHAMDULILAH LULUS SEMUANYA</h2>
 
