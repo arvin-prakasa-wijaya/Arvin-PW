@@ -1,17 +1,17 @@
 # Arvin-PW
 About me/Tentang saya
 
-<p align="center">
-  <img src="https://github.com/arvinprakasawijaya/Arvin-PW/blob/main/bayi%20kartun.png?raw=true" alt="Profil Arvin" width="300"/>
-</p>
+<table>
+  <tr>
+    <td>
 
-<div align="justify">
-  
-  <b>Lahir di Bandung pada Tanggal 05 Januari 2006.<br>
-</div>
+### 🍼 Kelahiran  
+Saya lahir di **Bandung**, pada tanggal **5 Januari 2006**.  
+Sebagai anak pertama, saya tumbuh dalam keluarga sederhana dengan banyak pelajaran hidup sejak kecil.
 
-
-# Arvin PW - Portfolio Editing Video 🎬
-<p align="center">
-  <img src="https://github.com/arvinprakasawijaya/My-Portfolio/blob/main/game%20x%20editing.jpg?raw=true" alt="Profil Arvin" width="500"/>
-</p>
+  </td>
+    <td align="center">
+      <img src="https://link-gambar-bayi-kartun.png" width="150"/>
+    </td>
+  </tr>
+</table>
